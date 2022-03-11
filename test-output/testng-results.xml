@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="13307" started-at="2022-03-04T12:36:19Z" finished-at="2022-03-04T12:36:32Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="13307" started-at="2022-03-04T12:36:19Z" finished-at="2022-03-04T12:36:32Z">
+      <class name="DAY7.ParallelTestExecution">
+        <test-method status="PASS" signature="testcase1()[pri:0, instance:DAY7.ParallelTestExecution@60c6f5b]" name="testcase1" duration-ms="13277" started-at="2022-03-04T12:36:19Z" finished-at="2022-03-04T12:36:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+      </class> <!-- DAY7.ParallelTestExecution -->
+    </test> <!-- Test1 -->
+    <test name="Test2" duration-ms="13304" started-at="2022-03-04T12:36:19Z" finished-at="2022-03-04T12:36:32Z">
+      <class name="DAY7.ParallelTestExecution">
+        <test-method status="PASS" signature="testcase1()[pri:0, instance:DAY7.ParallelTestExecution@210366b4]" name="testcase1" duration-ms="13271" started-at="2022-03-04T12:36:19Z" finished-at="2022-03-04T12:36:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+      </class> <!-- DAY7.ParallelTestExecution -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>
